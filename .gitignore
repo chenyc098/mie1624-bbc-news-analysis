@@ -1,0 +1,12 @@
+.env
+.env.*
+api_key.txt
+*credentials*
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
+articles*.txt
+*.docx
+wordcloud_image.png
+bar_chart.png

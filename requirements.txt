@@ -1,0 +1,7 @@
+jupyterlab
+requests
+beautifulsoup4
+wordcloud
+matplotlib
+python-docx
+openai
