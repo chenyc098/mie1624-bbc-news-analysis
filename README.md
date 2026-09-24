@@ -25,6 +25,12 @@ flowchart LR
 - Structured summarization covering topics and humanitarian themes through the OpenAI API.
 - Automated report assembly with python-docx.
 
+## Example output
+
+![Word cloud and top-20 word-frequency chart](assets/word-frequency-preview.png)
+
+This chart comes from the original notebook's saved coursework output. It is a historical sample, not a fresh scrape or a validation of the current BBC page layout. In that sample, the displayed counts include “ukraine” (189), “russia” (172), and “russian” (167); these are token counts, not article counts or measures of importance.
+
 ## Files
 
 - [`Web_scraping_BBC_Ukraine.ipynb`](Web_scraping_BBC_Ukraine.ipynb): complete notebook workflow.
